@@ -1,0 +1,9 @@
+#ifndef ARDUINOSECRETS
+#define ARDUINOSECRETS
+
+#define MYSSID "SSID"
+#define MYPASS "PASS"
+#define WEBSOCKET_IP "WS_IP"
+#define WEBSOCKET_PORT WS_PORT
+
+#endif
